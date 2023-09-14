@@ -1,3 +1,8 @@
+ポケモンリストの作成
+
+APIよりポケモンデータを取得してポケモン情報を抽出
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
